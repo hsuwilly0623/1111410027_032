@@ -1,0 +1,7 @@
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\bin\Debug\1111410027_許哲瑋032.exe.config
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\bin\Debug\1111410027_許哲瑋032.exe
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\bin\Debug\1111410027_許哲瑋032.pdb
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\obj\Debug\1111410027_許哲瑋032.csproj.AssemblyReference.cache
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\obj\Debug\1111410027_許哲瑋032.csproj.CoreCompileInputs.cache
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\obj\Debug\1111410027_許哲瑋032.exe
+C:\Users\xiaon\OneDrive\桌面\網頁程式設計\1111410027_許哲瑋032\1111410027_許哲瑋032\obj\Debug\1111410027_許哲瑋032.pdb
